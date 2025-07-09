@@ -1,4 +1,8 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1752055169
+::res://::1752056111
 icon.svg::CompressedTexture2D/CompressedTexture2D::1912329884227123789::1752055096::1752055107::1::::<><><>0<>0<>1354fed19f34540e51ed99d8387f4bbb<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-README.md::TextFile::-1::1752054972::0::1::::<><><>0<>0<><>::
+README.md::TextFile/TextFile::-1::1752054972::0::1::::<><><>0<>0<><>::
+::res://assets/::1752055843
+::res://framework/::1752056111
+demo_area.tscn::PackedScene/PackedScene::2543178635623324611::1752055884::0::1::::<><><>0<>0<><>::
+::res://framework/demo_area/::1752056102
