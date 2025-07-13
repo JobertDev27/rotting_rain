@@ -1,3 +1,5 @@
 res://framework/demo_area/demo_area.tscn
 res://framework/player/player.tscn
 res://framework/player/player.gd
+res://framework/components/bulletComponent.tscn
+res://framework/components/bullet_component.gd
